@@ -1,5 +1,5 @@
 {
-    "name": "intervention/image",
+    "name": "palmosolutions/image",
     "description": "PHP image manipulation",
     "homepage": "https://image.intervention.io/",
     "keywords": [
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.3",
         "ext-mbstring": "*",
         "intervention/gif": "^4.2"
     },
